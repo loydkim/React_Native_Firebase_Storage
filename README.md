@@ -4,7 +4,7 @@ If you buy me a coffee, I really appreciate it 🙇🏻‍♂️🙇🏻‍♂�
 
 Link: https://www.buymeacoffee.com/loydkim
 
-<img src="https://github.com/loydkim/React_Native_Firebase_Firestore/blob/main/short.gif" width="300" height="520">
+<img src="https://github.com/loydkim/React_Native_Firebase_Storage/blob/main/preview.gif" width="300" height="520">
 
 * Develop Environment.
 
